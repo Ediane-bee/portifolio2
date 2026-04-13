@@ -4,7 +4,7 @@ body { font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; }
 header { background: #007bff; color: white; padding: 20px; border-radius: 8px; }
 
 .projetos-grid {
-  display: flex; /* EXIGÊNCIA DO PROFESSOR */
+  display: flex; /* EXIGÃŠNCIA DO PROFESSOR */
   flex-wrap: wrap;
   justify-content: center;
   gap: 20px;
